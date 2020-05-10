@@ -3,3 +3,7 @@ A project that uses Floyd's and Dijkstra Algorithms to find the shortest path be
 
 
 There is an implementation for both of the algorithms (source codes used from geekforgeeks) with some tweaks to print a certain path between two nodes asked to be entered by the user.
+
+# License
+
+Copyright (c) 2020 Mohammad-Tayseer
